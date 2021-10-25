@@ -2,7 +2,7 @@ This repo is mostly made for learning and experiments purposes .
 
 Here you can find :
 
---------------------------------  OpenCV  -------------------------------------
+--------------------------------  OpenCV  --------------------------------------
 
 * gesture detection : controlling mouse using two fingers in front of the camera
 * object detection : train with a set of object images to recognize it later
