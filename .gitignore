@@ -1,1 +1,7 @@
 dataSet*
+*.zip
+PetImages/
+*.npy
+*.pyc
+downloads/
+*.ini
